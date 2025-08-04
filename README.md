@@ -73,17 +73,10 @@ python manage.py runserver
 - DRF 3.12+
 - JWT
 
-## 📄 API-документация (ReDoc)
+## 📄 API-документация
 
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>YaMDb API Docs</title>
-    <script src="https://cdn.redoc.ly/redoc/latest/bundles/redoc.standalone.js"></script>
-  </head>
-  <body>
-    <redoc spec-url="api_yamdb/static/redoc.yaml"></redoc>
-  </body>
-</html>
-```
+![OpenAPI](https://img.shields.io/badge/OpenAPI-3.0-success?logo=openapi-initiative)
+![JWT Auth](https://img.shields.io/badge/Auth-JWT-orange?logo=json-web-tokens)
+![Django REST](https://img.shields.io/badge/Django_REST-3.12-blue?logo=django)
+
+### [Документация (ReDoc)](api_yamdb%2Fstatic%2Fredoc.yaml)
