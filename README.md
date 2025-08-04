@@ -79,7 +79,5 @@ python manage.py runserver
 ![JWT Auth](https://img.shields.io/badge/Auth-JWT-orange?logo=json-web-tokens)
 ![Django REST](https://img.shields.io/badge/Django_REST-3.12-blue?logo=django)
 
-### 
-```yaml
-api_yamdb%2Fstatic%2Fredoc.yaml
-```
+### 📄 [API-документация (ReDoc)](api_yamdb%2Fstatic%2Fredoc.yaml)
+### Загрузить и просмотреть документацию ReDoc можно [тут](https://redocly.github.io/redoc/)
